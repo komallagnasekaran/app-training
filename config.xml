@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
+<widget id="com.infitt.painthamil" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>PAINTHAMIL</name>
     <description>
-     Mobile App Training
+     சினைப்பெயர் தொடர்பாக மாணவர்கள் இங்கு கற்று கொள்ளலாம். 
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
    OTPAM
